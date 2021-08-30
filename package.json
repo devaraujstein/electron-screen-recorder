@@ -1,0 +1,14 @@
+{
+  "name": "screen-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "André Araujo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.2.3"
+  }
+}
